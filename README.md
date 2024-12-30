@@ -2,6 +2,8 @@
 
 Brawl Stars is a popular multiplayer online battle arena (MOBA) and third-person shooter game developed and published by Supercell, the creators of games like Clash of Clans and Clash Royale. It was globally released in December 2018 and is available on both iOS and Android platforms. Here's an overview of the game:
 
+<h2><a href="https://allresources.xyz/brawlstars.html/">LEARN MORE</a></h2>
+
 Gameplay Basics
 Game Modes: Brawl Stars offers various modes, each with unique objectives and team dynamics. Popular modes include:
 
